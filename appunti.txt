@@ -1,0 +1,20 @@
+COSE DA RISOLVERE:
+- check su navi banchine
+- check routine NAVE
+- rivedere un po' la logica dei segnali
+
+commit Nº 
+
+RELAZIONE:
+- intro: descrizione su come runnare
+- breve descrizione routine processi
+- quali IPC usiamo ed il perchè ( anche il modello dei dati --> descrizione struct etc)
+- come gestiamo i segnali
+- descrizione memorie condivise
+- descrizione semafori
+- descrizione code di messaggi
+- descrizione delle varie simulazioni con test, statistiche etc
+- cose prese da altre parti ( tipo TEST_ERROR, BZERO, template stampa, ...)
+
+
+
